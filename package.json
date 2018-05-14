@@ -1,0 +1,22 @@
+{
+  "name": "easy-accounting",
+  "version": "1.0.0",
+  "description": "a simple ui tool to record basic accouting incidents",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/run-time-error/Easy-Accounting.git"
+  },
+  "author": "raihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/run-time-error/Easy-Accounting/issues"
+  },
+  "homepage": "https://github.com/run-time-error/Easy-Accounting#readme",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
