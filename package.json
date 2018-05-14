@@ -1,5 +1,5 @@
 {
-  "name": "Easy Accounting",
+  "name": "easy-accounting",
   "version": "1.0.0",
   "description": "a simple ui tool to record basic accouting incidents",
   "main": "main.js",
