@@ -1,10 +1,10 @@
 {
-  "name": "easy-accounting",
+  "name": "Easy Accounting",
   "version": "1.0.0",
   "description": "a simple ui tool to record basic accouting incidents",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
